@@ -1,0 +1,11 @@
+/coverage
+/src/client/shared
+/src/node/shared
+*.log
+.DS_Store
+.vite_opt_cache
+dist
+!docs/.vitepress/dist
+node_modules
+TODOs.md
+.vscode

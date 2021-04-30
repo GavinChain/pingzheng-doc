@@ -1,0 +1,1 @@
+import{l as i,f as l,H as e}from"./framework.6d2b355d.js";const n='{"title":"新增凭证","description":"","frontmatter":{},"relativePath":"config/open/newPingZheng.md","lastUpdated":1619766861499}',r={},a=e('',2);r.render=function(e,n,r,t,p,d){return i(),l("div",null,[a])};export default r;export{n as __pageData};

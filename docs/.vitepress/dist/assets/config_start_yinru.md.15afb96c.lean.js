@@ -1,0 +1,1 @@
+import{l as e,f as n,H as i}from"./framework.6d2b355d.js";const r='{"title":"依赖关系","description":"","frontmatter":{},"relativePath":"config/start/yinru.md","lastUpdated":1619767442514}',g={},l=i('',9);g.render=function(i,r,g,o,p,t){return e(),n("div",null,[l])};export default g;export{r as __pageData};

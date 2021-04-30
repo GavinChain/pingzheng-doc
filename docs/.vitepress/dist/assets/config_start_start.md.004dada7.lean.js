@@ -1,0 +1,1 @@
+import{l as e,f as l,H as t}from"./framework.6d2b355d.js";const i='{"title":"第一步: 引入","description":"","frontmatter":{},"relativePath":"config/open/justNewPingZheng.md","lastUpdated":1619766232125}',a={},r=t('',5);a.render=function(t,i,a,n,d,o){return e(),l("div",null,[r])};export default a;export{i as __pageData};

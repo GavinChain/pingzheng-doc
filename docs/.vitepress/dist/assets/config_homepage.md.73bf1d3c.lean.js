@@ -1,0 +1,1 @@
+import{l as n,f as a,H as s}from"./framework.6d2b355d.js";const e='{"title":"Theme Config: Homepage","description":"","frontmatter":{},"relativePath":"config/homepage.md","lastUpdated":1619397918000}',t={},p=s('',3);t.render=function(s,e,t,o,c,u){return n(),a("div",null,[p])};export default t;export{e as __pageData};

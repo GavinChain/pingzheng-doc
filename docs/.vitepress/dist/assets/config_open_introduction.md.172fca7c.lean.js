@@ -1,0 +1,1 @@
+import{l as e,f as r,H as a}from"./framework.6d2b355d.js";const l='{"title":"API介绍","description":"","frontmatter":{},"relativePath":"config/open/introduction.md","lastUpdated":1619772256151}',t={},i=a('',4);t.render=function(a,l,t,o,d,n){return e(),r("div",null,[i])};export default t;export{l as __pageData};

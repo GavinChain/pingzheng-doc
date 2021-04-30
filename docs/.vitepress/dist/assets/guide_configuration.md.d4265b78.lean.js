@@ -1,0 +1,1 @@
+import{l as e,f as s,H as n}from"./framework.6d2b355d.js";const a='{"title":"Configuration","description":"","frontmatter":{},"relativePath":"guide/configuration.md","lastUpdated":1619397918000}',t={},o=n('',6);t.render=function(n,a,t,i,r,p){return e(),s("div",null,[o])};export default t;export{a as __pageData};
